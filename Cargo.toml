@@ -1,0 +1,10 @@
+[package]
+name = "java-classfile"
+version = "0.0.1"
+edition = "2021"
+authors = ["itsu-dev"]
+description = "A simple Java classfile parser for <= JavaSE version 17."
+documentation = "https://github.com/Tsukuba-Programming-Lab/grower"
+license = "MIT"
+
+[dependencies]
